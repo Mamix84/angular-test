@@ -1,5 +1,5 @@
 var test = require("tape")
-var operations = require("./")
+var operations = require("../")
 
 test("operations.sum", function(assert) {
     var a = 1
